@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing software related to electronic design automation & test
 - 🌱 I’m currently learning more about github :-)
 - 💞️ I’m looking to collaborate on any Intel internal open source projects 
-- 📫 How to reach me: Just connect with me here on github
+- 📫 How to reach me: Just connect with me here on github or email/teams (douglas.sprague@intel.com)
 
 <!---
 dsprague59/dsprague59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
